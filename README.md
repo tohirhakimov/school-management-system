@@ -1,4 +1,4 @@
-# Skuul school management system
+#  SMS - School Management System in Laravel 9
 
 >In search of good school management systems written in laravel, I tried so many although most were quite remarkably good they lacked some essential features that I would have loved in a school management system.This made me passionate in building my own school management system. Although it has been difficult, it's actually forming up into a quite useable project.
 
