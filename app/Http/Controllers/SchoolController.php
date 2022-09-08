@@ -55,6 +55,7 @@ class SchoolController extends Controller
      */
     public function store(SchoolStoreRequest $request)
     {
+        dd('s');    
         $data = $request->except('_token');
         $this->school->createSchool($data);
 
